@@ -1,4 +1,5 @@
 a= 4
 b= 8
-m = a* b
-print(m)
+c=0
+c = a* b
+print(c)
